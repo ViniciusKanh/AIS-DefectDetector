@@ -105,8 +105,8 @@ Este projeto é fundamentado em estudos como:
 ## ✍️ Autor
 
 Vinicius de Souza Santos  
-📧 vinicius.engcomp@ifsp.edu.br  
-📍 IFSP - Instituto Federal de São Paulo
+📧 vinicius-souza.santos@unesp.br 
+📍 UNESP - Universidade Estadual Paulista "Júlio de Mesquita Filho"
 
 ---
 
