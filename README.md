@@ -105,7 +105,7 @@ Este projeto é fundamentado em estudos como:
 ## ✍️ Autor
 
 Vinicius de Souza Santos  
-📧 vinicius-souza.santos@unesp.br 
+📧 vinicius-souza.santos@unesp.br  
 📍 UNESP - Universidade Estadual Paulista "Júlio de Mesquita Filho"
 
 ---
